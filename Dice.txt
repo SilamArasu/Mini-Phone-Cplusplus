@@ -1,0 +1,6 @@
+silam	50
+arasu	2220
+hari	488
+
+barath	90
+silam	400
